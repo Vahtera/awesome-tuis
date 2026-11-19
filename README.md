@@ -298,6 +298,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [treemd](https://github.com/Epistates/treemd) A markdown navigator with tree-based structural navigation
 - [turbo](https://github.com/magiblot/turbo) An experimental text editor for the terminal, based on Scintilla and Turbo Vision
 - [vis](https://github.com/martanne/vis) A vi-like editor based on Plan 9's structural regular expressions
+- [wordterm](https://github.com/Vahtera/wordterm) A distraction-free terminal writing app for chapter-based projects such as novels.
 - [zee](https://github.com/zee-editor/zee) A modern text editor for the terminal written in Rust
 
 ---
